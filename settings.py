@@ -1,1 +1,4 @@
 DEBUG = True
+PLUGINS = [
+    'todo'
+]

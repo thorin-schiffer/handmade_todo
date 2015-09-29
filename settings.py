@@ -1,8 +1,8 @@
 DEBUG = True
 PLUGINS = [
-    'core',
-    'project',
-    'resources',
-    'themes',
+    'handmade.core',
+    'handmade.project',
+    'handmade.resources',
+    'handmade.themes',
     'todo'
 ]
